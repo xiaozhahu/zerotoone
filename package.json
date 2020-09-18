@@ -1,0 +1,19 @@
+{
+  "name": "zerotoone",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+    "author": {
+        "name": "Old.Lazy.Sexy",
+        "url": "https://github.com/xiaozhahu",
+        "email": "aloha_dance@outlook.com"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git@github.com:xiaozhahu/zerotoone.git"
+    },
+  "scripts": {
+      "test": "echo 'skip test...'"
+  },
+  "license": "MIT"
+}
